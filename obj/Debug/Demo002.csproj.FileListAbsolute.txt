@@ -1,0 +1,14 @@
+D:\zc\Studying\Demo001\Demo002\bin\Debug\Demo002.exe.config
+D:\zc\Studying\Demo001\Demo002\bin\Debug\Demo002.exe
+D:\zc\Studying\Demo001\Demo002\bin\Debug\Demo002.pdb
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.csprojAssemblyReference.cache
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.Form1.resources
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.Properties.Resources.resources
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.csproj.GenerateResource.cache
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.csproj.CoreCompileInputs.cache
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.exe
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.pdb
+D:\zc\Studying\Demo001\Demo002\bin\Debug\Newtonsoft.Json.dll
+D:\zc\Studying\Demo001\Demo002\bin\Debug\Newtonsoft.Json.xml
+D:\zc\Studying\Demo001\Demo002\obj\Debug\Demo002.csproj.CopyComplete
+D:\zc\Studying\Demo001\Demo002\bin\Debug\TopSdk.dll
